@@ -1,0 +1,16 @@
+.program {
+  width: 250px;
+  height: 250px;
+  margin: 25px 75px 50px 0;
+
+  img {
+    width: 250px;
+    height: 250px;
+    border-radius: 42% 42% 42% 0%;
+    margin: 10px;
+
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
